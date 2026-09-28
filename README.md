@@ -36,35 +36,42 @@ PharmaCare is a comprehensive Relational Database Management System (RDBMS) web 
     </td>
     <td width="33%">
       <h4 align="center">Invoice & Receipt Generation</h4>
-      <img src="https://github.com/user-attachments/assets/7c169db8-263b-425c-87cb-7a5269ed3749" alt="Invoice Generation" />
+      <img src="https://github.com/user-attachments/assets/399ecbd8-145d-407e-af8f-91f3c0143c4d" />
+ />
     </td>
   </tr>
   <tr>
     <td width="33%">
       <h4 align="center">Inventory & Stock Tracking</h4>
-      <img src="https://github.com/user-attachments/assets/99cdf7e7-6e02-4f31-8ab8-fae854d958b5" alt="Inventory Tracking" />
+      <img src="https://github.com/user-attachments/assets/7e0ddd95-3708-413a-8176-03b9534b8c68" />
+ />
     </td>
     <td width="33%">
       <h4 align="center">Staff Directory</h4>
-      <img src="https://github.com/user-attachments/assets/d99d2f86-4ac1-4f4c-8c55-bc53196fa96e" alt="Staff Directory" />
+      <img  src="https://github.com/user-attachments/assets/185533ae-bc86-4d22-b125-e6c373a4d420" />
+" alt="Staff Directory" />
     </td>
     <td width="33%">
       <h4 align="center">Customer Records</h4>
-      <img src="https://github.com/user-attachments/assets/967304eb-99ef-4e73-adba-d309bbfe61fd" alt="Customer Records" />
+      <img src="https://github.com/user-attachments/assets/22087513-aecd-42ef-9624-a4fb0d349db5" />
+ alt="Customer Records" />
     </td>
   </tr>
   <tr>
     <td width="33%">
       <h4 align="center">Supplier Directory</h4>
-      <img src="https://github.com/user-attachments/assets/9a96fa25-ab85-4f3b-b27f-85919881f0ea" alt="Supplier Directory" />
+      <img  src="https://github.com/user-attachments/assets/150f8797-461d-4b8c-bc4d-3c1ecd9eb407" />
+" alt="Supplier Directory" />
     </td>
     <td width="33%">
       <h4 align="center">Prescription Database</h4>
-      <img src="https://github.com/user-attachments/assets/fdd12ef1-ba82-4032-82dc-f015e5d67857" alt="Prescription Database" />
+      <img src="https://github.com/user-attachments/assets/aabf9f69-846b-437d-8bda-e9f3551d5263" />
+" />
     </td>
     <td width="33%">
       <h4 align="center">Printable Invoice View</h4>
-      <img src="https://github.com/user-attachments/assets/7fcf8a92-695f-4ccf-b50d-c3c374a7ee3b" alt="Printable Invoice" />
+      <img src="https://github.com/user-attachments/assets/89de60b5-46ae-4bb8-937e-a678d926dc7a" />
+" />
     </td>
   </tr>
 </table>
