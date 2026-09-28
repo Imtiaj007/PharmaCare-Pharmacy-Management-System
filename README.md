@@ -21,61 +21,55 @@ PharmaCare is a comprehensive Relational Database Management System (RDBMS) web 
 * **Environment:** XAMPP Local Server
 
 ---
+
 ## 🖼️ Application Screenshots
 
 <table>
   <tr>
     <td width="33%">
       <h4 align="center">Admin Login</h4>
-      <!-- <img width="1917" height="908" alt="Screenshot 2026-09-28 225751" src="https://github.com/user-attachments/assets/0f365e64-bfb9-415b-ba37-e9d1ed760b3e" />
- -->
+      <img src="https://github.com/user-attachments/assets/0f365e64-bfb9-415b-ba37-e9d1ed760b3e" alt="Admin Login" />
     </td>
     <td width="33%">
       <h4 align="center">POS / Billing Management</h4>
-      <!-- <img width="1917" height="916" alt="Screenshot 2026-09-28 225807" src="https://github.com/user-attachments/assets/dd412e0a-2503-4434-95da-b736d30b6387" />
--->
+      <img src="https://github.com/user-attachments/assets/dd412e0a-2503-4434-95da-b736d30b6387" alt="POS Billing" />
     </td>
     <td width="33%">
       <h4 align="center">Invoice & Receipt Generation</h4>
-      <!-- <img width="1912" height="885" alt="Screenshot 2026-09-28 230600" src="https://github.com/user-attachments/assets/7c169db8-263b-425c-87cb-7a5269ed3749" />
- -->
+      <img src="https://github.com/user-attachments/assets/7c169db8-263b-425c-87cb-7a5269ed3749" alt="Invoice Generation" />
     </td>
   </tr>
   <tr>
     <td width="33%">
       <h4 align="center">Inventory & Stock Tracking</h4>
-      <!-- <img width="1917" height="911" alt="Screenshot 2026-09-28 230609" src="https://github.com/user-attachments/assets/99cdf7e7-6e02-4f31-8ab8-fae854d958b5" />
- -->
+      <img src="https://github.com/user-attachments/assets/99cdf7e7-6e02-4f31-8ab8-fae854d958b5" alt="Inventory Tracking" />
     </td>
     <td width="33%">
       <h4 align="center">Staff Directory</h4>
-      <!-- <img width="1917" height="917" alt="Screenshot 2026-09-28 230622" src="https://github.com/user-attachments/assets/d99d2f86-4ac1-4f4c-8c55-bc53196fa96e" />
-৫ নম্বর ছবি এখানে ছাড়ুন -->
+      <img src="https://github.com/user-attachments/assets/d99d2f86-4ac1-4f4c-8c55-bc53196fa96e" alt="Staff Directory" />
     </td>
     <td width="33%">
       <h4 align="center">Customer Records</h4>
-      <!-- <img width="1917" height="912" alt="Screenshot 2026-09-28 230421" src="https://github.com/user-attachments/assets/967304eb-99ef-4e73-adba-d309bbfe61fd" />
-৬ নম্বর ছবি এখানে ছাড়ুন -->
+      <img src="https://github.com/user-attachments/assets/967304eb-99ef-4e73-adba-d309bbfe61fd" alt="Customer Records" />
     </td>
   </tr>
   <tr>
     <td width="33%">
       <h4 align="center">Supplier Directory</h4>
-      <!-- <img width="1915" height="880" alt="Screenshot 2026-09-28 230459" src="https://github.com/user-attachments/assets/9a96fa25-ab85-4f3b-b27f-85919881f0ea" />
-৭ নম্বর ছবি এখানে ছাড়ুন -->
+      <img src="https://github.com/user-attachments/assets/9a96fa25-ab85-4f3b-b27f-85919881f0ea" alt="Supplier Directory" />
     </td>
     <td width="33%">
       <h4 align="center">Prescription Database</h4>
-      <!--<img width="1917" height="908" alt="Screenshot 2026-09-28 230509" src="https://github.com/user-attachments/assets/fdd12ef1-ba82-4032-82dc-f015e5d67857" />
- ৮ নম্বর ছবি এখানে ছাড়ুন -->
+      <img src="https://github.com/user-attachments/assets/fdd12ef1-ba82-4032-82dc-f015e5d67857" alt="Prescription Database" />
     </td>
     <td width="33%">
       <h4 align="center">Printable Invoice View</h4>
-      <!-- ৯<img width="1917" height="920" alt="Screenshot 2026-09-28 230517" src="https://github.com/user-attachments/assets/7fcf8a92-695f-4ccf-b50d-c3c374a7ee3b" />
- নম্বর ছবি এখানে ছাড়ুন -->
+      <img src="https://github.com/user-attachments/assets/7fcf8a92-695f-4ccf-b50d-c3c374a7ee3b" alt="Printable Invoice" />
     </td>
   </tr>
 </table>
+
+---
 
 ## 📁 Database Schema
 
