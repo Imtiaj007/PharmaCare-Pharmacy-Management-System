@@ -4,6 +4,8 @@ PharmaCare is a comprehensive Relational Database Management System (RDBMS) web 
 
 ---
 
+🌐 **Live Demo:** [https://pharmacare.infy.click/login.php?i=1](https://pharmacare.infy.click/login.php?i=1)
+
 ## 🚀 Key Features
 
 * **Database Architecture:** Fully normalized (up to **3NF**) database schema with 8 interconnected tables.
